@@ -1,0 +1,14 @@
+{
+  "name": "angular-bootstrap-datepicker",
+  "version": "0.0.0",
+  "description": "Custom build of Angular-UI Boostrap https://github.com/angular-ui/bootstrap",
+  "main": ["ui-bootstrap-custom.js", "ui-bootstrap-custom-tpls.js"],
+  "dependencies": {
+    "angular": "~1.3",
+    "bootstrap": "~3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/experium/angular-bootstrap-datepicker.git"
+  }
+}
